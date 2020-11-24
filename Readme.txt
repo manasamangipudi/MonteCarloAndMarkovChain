@@ -1,1 +1,1 @@
-Sampling - rejection and importance sampling
+Monte Carlo and Markov Chain Monte Carlo Methods
